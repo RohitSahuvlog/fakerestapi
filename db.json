@@ -1,0 +1,14 @@
+{
+  "data":   [
+    {
+      "category": "family",
+      "image_url": "",
+      "type_of_room": "AC",
+      "bed_type": "single",
+          "no_of_persons":"10",
+          "capacity":"20",
+          "cost":"900",
+          "booked":false
+    }
+  ]
+}
